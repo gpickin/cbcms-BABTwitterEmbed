@@ -3,7 +3,7 @@
 * Copyright since 2012 by Ortus Solutions, Corp
 * www.ortussolutions.com/products/contentbox
 * ---
-* A slideshow that shows all the images in a media manager folder
+* Twitter Embed Widget with Customizable Options
 */
 component extends="contentbox.models.ui.BaseWidget" singleton{
 
