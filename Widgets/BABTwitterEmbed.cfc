@@ -9,12 +9,12 @@ component extends="contentbox.models.ui.BaseWidget" singleton{
 
 	function init(){
 		// Widget Properties
-		setName( "BABTwitterEmbed" );
+		setName( "BAB Twitter Embed" );
 		setVersion( "1.0" );
 		setDescription( "Twitter Embed Widget with Customizable Options" );
 		setAuthor( "Gavin Pickin" );
 		setAuthorURL( "http://www.blackandbluewebapps.com" );
-		setIcon( "commenting" );
+		setIcon( "twitter" );
 		setCategory( "Social Media" );
 		return this;
 	}

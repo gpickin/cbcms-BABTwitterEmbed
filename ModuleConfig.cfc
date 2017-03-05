@@ -4,7 +4,7 @@
 * www.ortussolutions.com/products/contentbox
 * ---
 */
-component hint="witter Embed Widget with Customizable Options"{
+component hint="Twitter Embed Widget with Customizable Options"{
 
 	// Module Properties
 	this.title 				= "Twitter Embed Widget with Customizable Options";
