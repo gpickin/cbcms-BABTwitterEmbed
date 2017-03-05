@@ -8,7 +8,7 @@ component hint="Twitter Embed Widget with Customizable Options"{
 
 	// Module Properties
 	this.title 				= "Twitter Embed Widget with Customizable Options";
-	this.author 			= "Black and Blue Web Apps";
+	this.author 			= "Gavin Pickin - Black and Blue Web Apps";
 	this.webURL 			= "http://www.blackandbluewebapps.com";
 	this.description 		= "Black and Blue's Twitter Embed Widget";
 	this.version			= "1.0";

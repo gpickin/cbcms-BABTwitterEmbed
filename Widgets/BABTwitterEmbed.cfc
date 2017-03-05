@@ -12,7 +12,7 @@ component extends="contentbox.models.ui.BaseWidget" singleton{
 		setName( "BAB Twitter Embed" );
 		setVersion( "1.0" );
 		setDescription( "Twitter Embed Widget with Customizable Options" );
-		setAuthor( "Gavin Pickin" );
+		setAuthor( "Gavin Pickin - Black and Blue Web Apps" );
 		setAuthorURL( "http://www.blackandbluewebapps.com" );
 		setIcon( "twitter" );
 		setCategory( "Social Media" );
@@ -20,7 +20,7 @@ component extends="contentbox.models.ui.BaseWidget" singleton{
 	}
 
 	/**
-	* A slideshow that shows all the images in a media manager folder
+	* Twitter Embed Widget with Customizable Options
 	* @twitterURL.label Twitter URL
 	* @twitterURL.hint The twitterURL you would like displayed. You could display a collection, a tweet, profile, list, likes timeline, handle or a hashtag
 	* @width.hint The width of the embedded content
