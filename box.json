@@ -23,7 +23,7 @@
         "Social Media"
     ],
     "scripts":{
-        "postVersion":"package set location='gpickin/cbcms-BABTwitterEmbed#v`package version`'",
+        "postVersion":"package set location='https://github.com/gpickin/cbcms-BABTwitterEmbed/archive/v`package version`.zip'",
         "onRelease":"publish",
         "postPublish":"!git push origin master && !git push origin master --tags"
     },
